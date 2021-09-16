@@ -1,2 +1,4 @@
-# Chess dataset
-> 1. Scrapping
+# Chess
+> 1. Scraping
+	scrapping_titled_players.ipynb
+	> data_cleaning.ipynb
