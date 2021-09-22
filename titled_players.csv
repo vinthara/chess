@@ -1109,7 +1109,7 @@
 1107,600644,"Chevaldonnet, Francois",IM,,FRA,2287.0,,,1950.0,M,0,"['International Master (IM)', '1983']",,,,,,1983,,
 1108,2200643,"Cuadras Avellana, Jordi",FM,,ESP,2203.0,2240.0,2222.0,1950.0,M,1,,,,,,,,,
 1109,2102188,"De Souza Haro, Paulo Cezar",FM,,BRA,2104.0,2096.0,2011.0,1950.0,M,1,,,,,,,,,
-1110,3200493,"Dekic, Biljana N",WIM,WIM,AUS,1947.0,,1970.0,,F,1,"['Woman International Master (WIM)', '1990']",,,,,1990,,,
+1110,3200493,"Dekic, Biljana N",WIM,WIM,AUS,1947.0,,1970.0,1950.0,F,1,"['Woman International Master (WIM)', '1990']",,,,,1990,,,
 1111,4611802,"Dietze, Wolfgang, Dr.",FM,,GER,2250.0,,,1950.0,M,0,,,,,,,,,
 1112,300250,"Dobrovolsky, Ladislav",IM,,CZE,2249.0,2321.0,,1950.0,M,1,"['International Master (IM)', '1982']",,,,,,1982,,
 1113,13700197,"Dzyuban, Oleg",IM,,KAZ,2362.0,,2179.0,1950.0,M,0,"['International Master (IM)', '1993']",,,,,,1993,,
@@ -7417,7 +7417,7 @@
 7415,3503232,"Marichal Gonzalez, Ariel",IM,,VEN,2273.0,2283.0,2250.0,1972.0,M,1,"['International Master (IM)', '2014']",,,,,,2014,,
 7416,13300466,"Markosian, David S.",GM,,ARM,2395.0,2411.0,,1972.0,M,0,"['Grandmaster (GM)', '2008', 'International Master (IM)', '2000']",,,,,,2000,,2008
 7417,900664,"Markovic, Ivan J",IM,,SRB,2461.0,,,1972.0,M,0,"['International Master (IM)', '1999']",,,,,,1999,,
-7418,4200233,"Mastrokoukos, George",IM,,GRE,2306.0,2242.0,2317.0,,M,0,"['International Master (IM)', '1994']",,,,,,1994,,
+7418,4200233,"Mastrokoukos, George",IM,,GRE,2306.0,2242.0,2317.0,1972.0,M,0,"['International Master (IM)', '1994']",,,,,,1994,,
 7419,14104296,"Mazurok, Alexey",IM,,UKR,2340.0,,,1972.0,M,1,"['International Master (IM)', '2001']",,,,,,2001,,
 7420,14501767,"Medak, Jasnica",WFM,WFM,CRO,2080.0,,,1972.0,F,0,,,,,,,,,
 7421,2226995,"Mendivil Anton, Daniel",FM,,ESP,2198.0,2248.0,,1972.0,M,1,"['FIDE Master (FM)', '2015']",,,,2015,,,,
